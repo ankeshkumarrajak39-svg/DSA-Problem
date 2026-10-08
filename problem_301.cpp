@@ -55,11 +55,11 @@ vector<string> answer(string s) {
     }
 
     return ans;
-}
+} 
 
 int main() {
 
-    string s = "()())()";
+    string s = "(())()";
 
     vector<string> ans = answer(s);
 
