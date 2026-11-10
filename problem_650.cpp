@@ -15,7 +15,7 @@ int minSteps(int n)
       n = n / i;
     }
   }
-  return minStep;
+  return minStep; //ans
 }
 
 int main()
