@@ -51,9 +51,9 @@ int computeArea(int ax1, int ay1, int ax2, int ay2,
 
     return areaofrecA + areaofrecB - areaofoverlap;
 }
-    int main()
-    {
-        //fuction call
+int main()
+{
+    // fuction call
 
-        return 0;
-    }
+    return 0;
+}
